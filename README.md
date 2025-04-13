@@ -1,5 +1,5 @@
 
-# 🦠 COVID-19 SQL Analysis Project (2020-2021)
+# 🦠 Analysis of COVID-19 data and identification of epidemic trends
 
 **Dive into a comprehensive SQL analysis** of global COVID-19 statistics (Feb 24, 2020 - Apr 30, 2021). Uncover transmission patterns, mortality risks, and vaccination impacts through raw data-to-insights pipelines.
 
