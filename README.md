@@ -1,4 +1,4 @@
-Dive into a comprehensive SQL analysis of two rich datasets capturing COVID-19 statistics from February 24th, 2020, to April 30th, 2021. This script is designed to uncover key trends, generate diverse statistics, and provide a deeper understanding of the pandemic's global impact.
+Dive into a comprehensive SQL analysis of two rich datasets capturing COVID-19 statistics from February 24th, 2020, to April 30th, 2021. This script is designed to uncover key trends, generate diverse statistics, and provide a deeper understanding of the pandemic's spreading .
 
 Key Features:
 
